@@ -1,6 +1,4 @@
-Here is the full cleaned-up guide with the corrected BROM procedure, battery pin removal wording, and formatting:
-
----
+GUIDE TO UNLOCK SUNMI P2 INSTALL APK ETC FOR FREE IN 2026
 
 # Sunmi P2 Flashing & Root Guide
 
