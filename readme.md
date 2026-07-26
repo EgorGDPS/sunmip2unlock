@@ -172,7 +172,8 @@ Select from Folder
 
 4. Select the extracted firmware folder.
 
-MTKClient will automatically detect and map the partition `.img` files.
+MTKClient will automatically detect and map the partition `.bin` files.
+Use nvram,nvdata,proinfo from your own device!!!!
 
 5. Click:
 
