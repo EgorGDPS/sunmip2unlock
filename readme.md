@@ -7,7 +7,7 @@ GUIDE TO UNLOCK SUNMI P2 INSTALL APK ETC FOR FREE IN 2026
 ### Required Files
 
 **Unlocked Firmware:**
-[https://drive.google.com/file/d/1CwfmmqLgOqc22xBI1lrbAlqPo2Kselvg/view?usp=sharing](https://drive.google.com/file/d/1CwfmmqLgOqc22xBI1lrbAlqPo2Kselvg/view?usp=sharing)
+[https://drive.google.com/file/d/1EJvmzaaidbCxTw7CUzMjyOu7M9Y4ANrO/view?usp=sharing](https://drive.google.com/file/d/1EJvmzaaidbCxTw7CUzMjyOu7M9Y4ANrO/view?usp=sharing)
 
 **Modded MTKClient:**
 [https://drive.google.com/file/d/1xutiSOtTqBfz1bMjr3FxrWHcHx_foFiI/view?usp=sharing](https://drive.google.com/file/d/1xutiSOtTqBfz1bMjr3FxrWHcHx_foFiI/view?usp=sharing)
@@ -173,7 +173,10 @@ Select from Folder
 4. Select the extracted firmware folder.
 
 MTKClient will automatically detect and map the partition `.bin` files.
-Use nvram,nvdata,proinfo from your own device!!!!
+
+Use nvram,nvdata from your own device!!!!
+
+WARNING: you might have to use flashinfo.bin from ur device
 
 5. Click:
 
