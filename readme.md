@@ -7,7 +7,7 @@ GUIDE TO UNLOCK SUNMI P2 INSTALL APK ETC FOR FREE IN 2026
 ### Required Files
 
 **Unlocked Firmware:**
-[https://drive.google.com/file/d/1EJvmzaaidbCxTw7CUzMjyOu7M9Y4ANrO/view?usp=sharing](https://drive.google.com/file/d/1EJvmzaaidbCxTw7CUzMjyOu7M9Y4ANrO/view?usp=sharing)
+[https://drive.google.com/file/d/10nadZdUP3CNdNuASY9uXC6ZYEp2n1E5T/view?usp=sharing](https://drive.google.com/file/d/10nadZdUP3CNdNuASY9uXC6ZYEp2n1E5T/view?usp=sharing)
 
 **Modded MTKClient:**
 [https://drive.google.com/file/d/1xutiSOtTqBfz1bMjr3FxrWHcHx_foFiI/view?usp=sharing](https://drive.google.com/file/d/1xutiSOtTqBfz1bMjr3FxrWHcHx_foFiI/view?usp=sharing)
